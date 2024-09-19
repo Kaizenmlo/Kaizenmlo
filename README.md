@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Kaizenmlo
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Tre/Vas
 - ⚡ Fun fact: i love my girlfriend
 
 <!---
